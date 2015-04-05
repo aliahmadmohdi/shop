@@ -1,6 +1,7 @@
 env
 __pycache__
 staticfiles
-local_settings.py
-mov
+project3
+project3/local_settings.py
+db.mov
 *.py[co]
